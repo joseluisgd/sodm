@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/mPerfil"
+        android:title="Perfil"
+            />
+        <item android:id="@+id/mProductos"
+            android:title="Productos"/>
+        <item android:id="@+id/mVenderProd"
+            android:title="Vender Productos"/>
+        <item android:id="@+id/mLogOut"
+            android:title="Log Off"/>
+
+    </group>
+
+</menu>
